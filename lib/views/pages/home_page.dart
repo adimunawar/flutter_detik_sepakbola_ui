@@ -107,7 +107,7 @@ class HomePage extends StatelessWidget {
             ),
           ),
           Container(
-            margin: EdgeInsets.only(top: 105, bottom: 50),
+            margin: EdgeInsets.only(top: 105, bottom: 55),
             child: ListView(
               children: [
                 Container(

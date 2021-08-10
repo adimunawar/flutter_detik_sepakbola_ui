@@ -5,3 +5,4 @@ import 'package:flutter_detik_sepakbola/shared/shared.dart';
 import 'package:flutter_detik_sepakbola/views/widgets/widgets.dart';
 
 part 'home_page.dart';
+part 'main_page.dart';
